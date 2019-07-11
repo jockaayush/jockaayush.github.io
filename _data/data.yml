@@ -71,8 +71,6 @@ education:
         projects be it in a course or additional projects with
         the professors at my college.
 
-          - Bullet point
-          - Bullet point
 
     - degree: Secondary and Higher Secondary Education
       university: D.A.V. Public School, Bathinda, Punjab
@@ -125,33 +123,38 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Keylogger
+        link: "https://github.com/jockaayush/Keylogger"
+        tagline: "Made a Keylogger which runs stealthly on system startup and sends all the keystrokes to a server"
 
-      - title: DevStudio
+      - title: Small Fun Tools
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Made a ARP Poisoning & MITM Attack Tool. Also, made a Server Up time Monitoring Tool. Built a Cookie-based login portal to learn more about XSS attack and session hijacking."
 
-      - title: Tempo
+      - title: Pentested IOT devices present in College 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Tested College's Network for securing IOT devices and found vulnerabilities in CCTV cameras and helped fixing them."
 
-      - title: Atom
+      - title: Course Project 1
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Built a Firewall Using Raw Sockets using Iptables in Linux. Where in after sniffing the packets they were unpacked and tested against the set rules and passed or dropped based on rules."
 
-      - title: Delta
+      - title: Course Project 2
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Cracking WPA-2 where our task was to replicate KRACK attack and find different ways to stop it."
+        
+      - title: Ongoing Projects 
+        link: "#"
+        tagline: "Protocol Design for Efficient Message Transfer during Disasters. And one on Secure and Light-weight Vehicle-to-Vehicle Authentication and Efficient Decentralized Communication"
+      
 
-#publications:
-#    title: Publications
+publications:
+    title: Coursework
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
