@@ -77,48 +77,27 @@ education:
       time: 2016
  
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Malware Analysis & End Point Protection Summer Intern
+      time: May 2018 to July 2018
+      company: Cognore (now ColorTokens), Hyderabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
+        My main aim was to replicate the recent attacks on
+        Windows System and find bugs in the company's software. I
+        also worked on fileless malware and replicated many fileless malware attacks.
+ 
+          - sccsc
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Coordinator of our Cyber Security Club Kludge
+      time: April 2017 - April 2018
+      company: IIT Hyderabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Kludge is Hacking and Security Club of IIT H. 
+        My work was to conduct sessions on different topics from
+        basic to intermediate level and conduct competitions. 
 
-          - Bullet point
-          - Bullet point
+          - Lead the club last year, now working as a mentor.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
@@ -158,6 +137,14 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
+      - title: "Data Structures"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+      - title: "Network Engineering"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
       - title: "Network Engineering"
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
