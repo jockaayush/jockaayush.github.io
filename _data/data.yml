@@ -77,6 +77,19 @@ education:
       time: 2016
  
 experiences:
+   - role: Software Development & Network Analysis for Protection from internal threats
+      time: May 2019 to June 2019
+      company: Instruments Research and Development Establishment, DRDO, Dehradun
+      details: |
+        I worked on 2 projects while I was at DRDO.
+        One was to develop software for internal use to stop
+        users for inserting any USB device and allowing
+        only devices allowed by the administrator of the network.
+        Another one was research on Post Quantum Cryptography,
+        where I studied the effect of quantum computers on
+        Cryptography and steps to be taken in a post-quantum world.
+
+
     - role: Malware Analysis & End Point Protection Summer Intern
       time: May 2018 to July 2018
       company: Cognore (now ColorTokens), Hyderabad
