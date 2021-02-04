@@ -1,3 +1,3 @@
-# jockaayush.github.io/online-cv
+# jockaayush.github.io/
 
 Repo for my Website
