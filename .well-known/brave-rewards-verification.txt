@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jockaayush.github.io
+Token: e230c8edfb7a014109b537121ac6f421c1aa4bfa633fdec7830bc969be6eea78
